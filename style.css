@@ -205,7 +205,7 @@ input:focus {
 
 /* section-five start */
 .player-logo {
-  background-image: url("/project2/photos/playerlogo.png");
+  background-image: url("./photos/playerlogo.png");
   height: 400px;
   background-size: cover;
   background-position: center;
@@ -303,7 +303,7 @@ input:focus {
   padding: 0px 0px 0px 30px;
 }
 .seven-text {
-  background-image: url("/project2/photos/seven-back.png");
+  background-image: url("./photos/seven-back.png");
   background-repeat: no-repeat;
   background-size: 50%;
   background-position: right;
@@ -416,7 +416,7 @@ input:focus {
   font-size: 10px;
 }
 .bus1 {
-  background-image: url("/project2/photos/nine-vector.png");
+  background-image: url("./photos/nine-vector.png");
   background-repeat: no-repeat;
   background-size: 50%;
   background-position: right;
@@ -566,7 +566,7 @@ input:focus {
   background-color: #256f7e;
   height: 100%;
   border-radius: 40px 40px 0px 0px;
-  background-image: url("/project2/photos/foot-vector.png");
+  background-image: url("./photos/foot-vector.png");
   background-size: 70%;
   background-repeat: no-repeat;
   background-position: bottom;
